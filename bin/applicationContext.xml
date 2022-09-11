@@ -21,6 +21,8 @@
     
     <!-- set up setter injection -->
     <property name="fortuneService" ref="myFortune" />
+    <property name="emailAddress" value="batuhanokur2209@gmail.com"></property>
+    <property name="team" value="Fenerbahçe"></property>
     </bean>
 </beans>
 
